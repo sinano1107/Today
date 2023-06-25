@@ -8,7 +8,7 @@
 import UIKit
 
 extension UIView {
-    func addPinnedSubView(
+    func addPinnedSubview(
         _ subview: UIView, height: CGFloat? = nil,
         insets: UIEdgeInsets = UIEdgeInsets(top: 0, left: 8, bottom: 0, right: 0)
     ) {
